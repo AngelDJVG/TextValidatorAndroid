@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Text Validator</string>
+    <string name="email">Email</string>
+    <string name="required">Required</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone_Number</string>
+    <string name="submit">Submit</string>
+    <string name="captcha">Captcha</string>
+</resources>
